@@ -22,8 +22,8 @@ const Home = () => {
 
                     </div>
                 </div>
-                <div>
-                    <img src={Himg} alt="my photo" className="rounded-2xl mx-auto w-100 h-80 md:w-full" />
+                <div >
+                    <img src={Himg} alt="my photo" className="rounded-2xl mx-auto lg:w-[420px] md:w-full" />
                 </div>
             </div>
         </div >
