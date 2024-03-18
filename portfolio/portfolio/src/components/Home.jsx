@@ -10,9 +10,10 @@ const Home = () => {
             <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
                 <div className='flex flex-col justify-center h-full'>
                     <h2 className='text-3xl sm:text-6xl font-bold text-white'>
-                        I am a developer and a competitive coder
+                        Hi, I am a Aditya Gupta
                     </h2>
-                    <p className='py-4 text-gray-500 max-w-md'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem, illo! Voluptate adipisci quis quidem quos sit ut blanditiis! Iure dolor aliquid unde consectetur quam suscipit, dolorem eos n</p>
+                    <p className='py-4 text-gray-500 max-w-md'>I am a undergraduate student who have keen interest in web development, data science and problem solving.</p>
+                    <p className='py-1 text-gray-500 max-w-md'> You can see my profile through this page.😀</p>
                     <div>
                         <Link
                             to="portfolio"

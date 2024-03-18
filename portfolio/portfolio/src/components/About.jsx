@@ -14,23 +14,13 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-                    deserunt illum mollitia officiis qui exercitationem perferendis neque
-                    quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-                    iste, totam fugiat recusandae rerum laborum perferendis molestiae
-                    aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-                    ab mollitia voluptatibus, a nostrum eveniet laborum!
+                    I'm an enthusiastic undergraduate student deeply passionate about web development, data science, and problem-solving. My journey began with a curiosity about website mechanics, leading me to master HTML, CSS, JavaScript, and various frameworks for crafting intuitive interfaces. Simultaneously, I've delved into the realm of data science, mastering machine learning algorithms, data visualization techniques, and statistical analysis methods to derive meaningful insights from complex datasets.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-                    pariatur, vel similique sint, nobis aspernatur ut praesentium
-                    explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-                    quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-                    Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-                    magni quo! Eum cupiditate debitis labore.
+                    Thriving in environments that challenge me, I approach each problem with determination and creativity, employing critical thinking to find effective solutions. Eager to continue expanding my knowledge and skills, I am committed to making a positive impact through technology and collaborative innovation.
                 </p>
             </div>
         </div>
