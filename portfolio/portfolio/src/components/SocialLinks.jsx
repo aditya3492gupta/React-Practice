@@ -39,7 +39,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: "/Aditya_Gupta_Resume.pdf",
+            href: "https://drive.google.com/file/d/1JjNdXLzWD774ONhl5EOyvnxg1u3Y5-qs/view?usp=drive_link",
             style: "rounded-br-md",
             download: true,
         },
