@@ -1,11 +1,13 @@
-function customRender(reactElement, mainContainer) {
-    const domElement = document.createElement
-        (reactElement.type);
-    domElement.innerHTML = reactElement.children;
-    domElement.setAttribute('href', reactElement.props.href);
-    domElement.setAttribute('target', reactElement.props.target);
-    mainContainer.appendChild(domElement);
-}
+// function customRender(reactElement, mainContainer) {
+//     const domElement = document.createElement
+//         (reactElement.type);
+//     domElement.innerHTML = reactElement.children;
+//     domElement.setAttribute('href', reactElement.props.href);
+//     domElement.setAttribute('target', reactElement.props.target);
+//     mainContainer.appendChild(domElement);
+// }
+// long process
+
 const reactElement = {
     type: 'a',
     props: {
